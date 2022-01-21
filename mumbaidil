@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>CCC form</title>
+	</head>
+	<body>
+		<h1>CCC form</h1>
+		<form action="login.html">
+			<p>First name<input type="text">Second name<input type="text"></p>
+			<p>Father's name<input type="text"></p>
+			<p>Mother's name<input type="text"></p>
+			<p>Gender<input type="radio" value="male">male<input type="radio" value="female" >female
+			<p>Address<input type="text"></p>
+			<p>Email<input type="email"></p>
+			<p>Phone number<input type="number"></p>
+			<p>Education</p>
+				<input type="checkbox">High School<br>
+				<input type="checkbox">Inter<br>
+				<input type="checkbox">Graduate<br>
+				<input type="checkbox">Post Graduate<br>
+				<input type="checkbox">Research Scholar<br>
+				<input type="checkbox">Doctrate<br>
+			<p>Upload photo<input type="file"></p>
+			<p><input type="submit" ><input type="reset"></p>
+		</form>
+	</body>
+</html>
