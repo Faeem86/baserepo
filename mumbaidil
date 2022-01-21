@@ -24,3 +24,38 @@
 		</form>
 	</body>
 </html>
+<html>
+<title>w3.css</title>
+<meta name="viewport" content="width=device-width" , initial-scale="1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body>
+    <div class="w3-container">
+        <h1>you should have knowledge about programming language
+            <h1>
+                <ul class="w3-ul w3-card-4" style="width:50%">
+                    <li class="w3-bar w3-green">
+                        <span onclick="this.parentElement.style.display='none'" class="w3-bar-item w3-button w3-red w3-
+large w3-right">x</span>
+                        <img src="p.jpg" class="w3-bar-item w3-circle w3-hide-small" style="width:200px">
+                        <div class="w3-bar-item">
+                            <span class="w3-xxlarge">Python</span><br><span>language</span></div>
+                    </li>
+                    <li class="w3-bar w3-blue">
+                        <span onclick="this.parentElement.style.display='none'" class="w3-bar-item w3-button w3-red w3-xxlarge w3-right">x</span>
+                        <img src="c.jpg" class="w3-bar-item w3-circle w3-hide-small" style="width:200px">
+                        <div class="w3-bar-item">
+                            <span class="w3-xxlarge">C++</span><br><span>language</span></div>
+                    </li>
+
+                    <li class="w3-bar w3-black">
+                        <span onclick="this.parentElement.style.display='none'" class="w3-bar-item w3-button w3-red w3-xxlarge w3-right">X</span>
+                        <img src="ph.jpg" class="w3-bar-item w3-circle w3-hide-small" style="width:150px">
+                        <div class="w3-bar-item">
+                            <span class="w3-xxlarge">php</span><br><span>language</span></div>
+                    </li>
+                </ul>
+    </div>
+</body>
+
+</html>
